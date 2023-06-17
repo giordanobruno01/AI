@@ -10,7 +10,7 @@ class AI:
         l = reader.readline()
         l = reader.readline()
         while(l!=""):
-            
+               
             lis = l.split(",")
             phrase = lis[2]
 
